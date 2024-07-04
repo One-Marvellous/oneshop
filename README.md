@@ -36,16 +36,16 @@ This project is a starting point for a Flutter application. To get started with 
 
 ## Screenshots
 
-| ![Image 1](lib/assets/screenshots/main_screen.png) | ![Image 2](lib\assets\screenshots\product_added_to_cart.png) |
+| ![Image 1](lib/assets/screenshots/main_screen.png) | ![Image 2](lib/assets/screenshots/product_added_to_cart.png) |
 |:------------------------------------------:|:------------------------------------------:|
 
-| ![Image 1](lib/assets/screenshots/view_all_products.png) | ![Image 2](lib\assets\screenshots\view_featured_products.png) |
+| ![Image 1](lib/assets/screenshots/view_all_products.png) | ![Image 2](lib/assets/screenshots/view_featured_products.png) |
 |:------------------------------------------:|:------------------------------------------:|
 
-| ![Image 1](lib/assets/screenshots/view_product_1.png) | ![Image 2](lib\assets\screenshots\view_product_2.png) |
+| ![Image 1](lib/assets/screenshots/view_product_1.png) | ![Image 2](lib/assets/screenshots/view_product_2.png) |
 |:------------------------------------------:|:------------------------------------------:|
 
-| ![Image 1](lib/assets/screenshots/view_cart.png) | ![Image 2](lib\assets\screenshots\order_successful.png) |
+| ![Image 1](lib/assets/screenshots/view_cart.png) | ![Image 2](lib/assets/screenshots/order_successful.png) |
 |:------------------------------------------:|:------------------------------------------:|
 
 ## Credits
